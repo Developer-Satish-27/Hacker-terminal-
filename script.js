@@ -38,10 +38,7 @@ async function hack() {
 
 async function main() {await hack();
   
-let messageDiv = document.createElement("div");
-  messageDiv.innerHTML = `Name: "Khushi Saini"<br> Date: 18 November<br> Message: Wishing you a Happy Birthday 🎂🎂 🎁🎁`;
-messageDiv.style.color = "cyan";
-  document.body.append(messageDiv);
+
 }
 
   
