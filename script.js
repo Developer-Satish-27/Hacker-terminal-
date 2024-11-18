@@ -36,9 +36,9 @@ async function hack() {
   clearInterval(t);
 }
 
-async function main() {
+async function main() {await hack();
+  
 document.write("Name: \"Khushi Saini\"\n Date:18 November\n Massage: Wishing you Happy Birthday 🎂🎂 🎁🎁")
-  await hack();
   
 }
 
