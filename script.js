@@ -37,6 +37,7 @@ async function hack() {
 }
 
 async function main() {
+document.write("Name: \"Khushi Saini\"\n Date:18 November\n Massage: Wishing you Happy Birthday 🎂🎂 🎁🎁)
   await hack();
   
 }
